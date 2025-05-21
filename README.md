@@ -19,7 +19,7 @@ This project delves into various aspects of the NYC TLC dataset to extract meani
 
 ##  Project Background
 
-This project was a key component of the **Google Advanced Data Analytics Certificate**, conducted in collaboration with [Company Name, if applicable, otherwise remove or specify "Automatidata Project Team"]. The primary objective was to leverage advanced analytics techniques to solve a real-world data problem.
+This project was a key component of the **Google Advanced Data Analytics Certificate**. The primary objective was to leverage advanced analytics techniques to solve a real-world data problem.
 
 ---
 
