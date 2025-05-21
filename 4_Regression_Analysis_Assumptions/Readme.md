@@ -1,8 +1,8 @@
 ### Issue / Problem
-The New York City Taxi & Limousine Commission (TLC) contracted Automatidata to develop a model for predicting taxi fares. For this initial phase of the project, Automatidata's data team delivered a regression model, addressing the TLC's original request.
+The New York City Taxi & Limousine Commission (TLC) contracted Automatidata to develop a model for predicting taxi fares. For this initial phase of the project, I delivered a regression model, addressing the TLC's original request.
 
 ### Response
-Given the nature and distribution of the available data, the Automatidata team opted for a multiple linear regression (MLR) model to predict taxi fares. This model proved effective in estimating fares before a ride commences.
+Given the nature and distribution of the available data, I opted for a multiple linear regression (MLR) model to predict taxi fares. This model proved effective in estimating fares before a ride commences.
 
 Performance was strong across both training and test datasets, indicating neither significant bias nor overfitting. Notably, the model exhibited slightly better performance on the held-out test data.
 
