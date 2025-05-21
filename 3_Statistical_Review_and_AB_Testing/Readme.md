@@ -12,7 +12,7 @@ An A/B test was designed and implemented to test this hypothesis:
 - **Group A:** Required to pay by credit card.
 - **Group B:** Required to pay in cash.
 
-The team then compared the `total_amount` between the two groups using a two-sample t-test.
+I then compared the `total_amount` between the two groups using a two-sample t-test.
 
 ### Details
 **Steps Conducted in the A/B Test:**
