@@ -1,5 +1,5 @@
 ### Overview
-The New York City Taxi & Limousine Commission (NYC TLC) has partnered with the Automatidata data team to develop a machine learning model that predicts whether a taxi rider is likely to leave a generous tip.
+ Develop a machine learning model that predicts whether a taxi rider is likely to leave a generous tip.
 
 ### Problem
 The original goal of predicting non-tippers was reconsidered due to ethical concerns.  
