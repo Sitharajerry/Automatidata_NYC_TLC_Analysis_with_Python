@@ -1,9 +1,4 @@
 
-# Automatidata NYC TLC Data Analysis Project
-
-This repository showcases a comprehensive data analysis project focused on **New York City Taxi & Limousine Commission (NYC TLC) trip data**. It follows the structured learning path of the **Automatidata Data Analysis specialization**, demonstrating a complete workflow from preliminary data summary to foundational machine learning applications, all implemented using **Python**.
-
----
 
 ## Project Overview
 
