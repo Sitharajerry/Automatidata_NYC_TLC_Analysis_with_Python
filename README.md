@@ -39,7 +39,7 @@ Throughout this project, the main goals were to:
 
 ---
 
-## 🛠️ Tools and Techniques
+## Tools and Techniques
 
 This project extensively utilized the following tools and analytical techniques:
 
