@@ -6,7 +6,7 @@ The original goal of predicting non-tippers was reconsidered due to ethical conc
 The focus shifted to identifying **generous tippers** (those who tip ≥ 20%).
 
 ### Solution
-The team built and compared two models—**Random Forest** and **XGBoost**.  
+I built and compared two models—**Random Forest** and **XGBoost**.  
 Both performed well, with **Random Forest** slightly outperforming XGBoost.
 
 **F1 Score for Random Forest:** 0.7235
